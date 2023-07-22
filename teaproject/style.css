@@ -1,0 +1,56 @@
+body {
+    background-color:black;
+}
+
+header {
+    background-color: hotpink;
+    border-bottom: 1px solid seashell;
+}
+
+nav {
+    width: 100%;
+    text-align: right;
+}
+
+nav ul {
+    text-decoration: none;
+}
+nav ul li {
+    width: 75%;
+
+}
+
+nav ul li a {
+    color: slategray;
+    text-decoration: underline;
+}
+
+/*.mission {
+    background-image: url("mission.webp");
+}*/
+
+h2, h4 {
+    background-color: black;
+    color: slategray;
+    text-align:center;
+    width: 1200px;
+}
+
+.locations {
+    border:500px;
+
+}
+
+.content {
+
+    color: slategray;
+    border: 200px;
+    text-align: center;
+}
+
+
+footer {
+    color: slategray;
+    border: 20px;
+    text-align: left;
+}
